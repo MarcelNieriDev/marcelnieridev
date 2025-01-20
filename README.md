@@ -1,7 +1,7 @@
 ## Bem vindo(a) ✌️👽
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1+%F0%9F%91%8B%F0%9F%8F%BD;Bora+codar%3F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1+%F0%9F%91%8B%F0%9F%8F%BD;Bora+codar%3F" alt="Typing SVG" /></a>
 <p>``Eu não sei, só sei que foi assim...´´ (Chicó)</p>
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511910780108)
@@ -29,7 +29,7 @@
 
 </div><br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Apaixonado+por+tecnologia+e+em+como+;isso+pode+mudar+a+vida+das+pessoas;%F0%9F%92%99" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=falso&vCenter=false&multiline=true&width=435&height=90&duration=3000&lines=Apaixonado+por+tecnologia+e+em+como+;isso+pode+mudar+a+vida+das+pessoas;%F0%9F%92%99" alt="Typing SVG" /></a>
 
  
 ![snake gif](https://github.com/MarcelNieriDev/MarcelNieriDev/blob/output/github-contribution-grid-snake.gif)
