@@ -1,5 +1,6 @@
 ## Bem vindo(a) ✌️👽
 ### Não sabendo que era impossivel foi la e fez ! (JC)
+``Eu não sei, só sei que foi assim...´´ (Chicó)
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511910780108)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -26,11 +27,10 @@
 
 </div><br/>
 
-
-Apaixonado por tecnologia e suas aplicações e em como isso pode mudar a vida das pessoas.
+<p>Apaixonado por tecnologia e suas aplicações e em como isso pode mudar a vida das pessoas.</p>
 
  
-# ![snake gif](https://github.com/your-user-name/MarcelNieriDev/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/your-user-name/MarcelNieriDev/blob/output/github-contribution-grid-snake.gif)
 
 
 
