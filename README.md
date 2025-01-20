@@ -1,7 +1,7 @@
 ## Bem vindo(a) ✌️👽
 
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1+%F0%9F%91%8B%F0%9F%8F%BD;Bora+codar%3F" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1+%F0%9F%91%8B%F0%9F%8F%BD;Bora+codar%3F" alt="Typing SVG" /></a>
 <p>``Eu não sei, só sei que foi assim...´´ (Chicó)</p>
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511910780108)
