@@ -29,7 +29,7 @@
 
 </div><br/>
 
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&multiline=true&width=435&height=90&duration=3000&lines=Apaixonado+por+tecnologia+e+em+como+;isso+pode+mudar+a+vida+das+pessoas;%F0%9F%92%99" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&center=true&vCenter=true&multiline=true&width=900&height=200&size=35&duration=3000&lines=Apaixonado+por+tecnologia+e+em+como+;isso+pode+mudar+a+vida+das+pessoas;%F0%9F%92%99" alt="Typing SVG" /></a>
 
  
 ![snake gif](https://github.com/MarcelNieriDev/MarcelNieriDev/blob/output/github-contribution-grid-snake.gif)
