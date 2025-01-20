@@ -30,11 +30,8 @@
 Apaixonado por tecnologia e suas aplicações e em como isso pode mudar a vida das pessoas.
 
  
- <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcelNieriDev/MarcelNieriDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mMarcelNieriDev/MarcelNieriDev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcelNieriDev/mMarcelNieriDev/output/github-contribution-grid-snake.svg">
-</picture>
+# ![snake gif](https://github.com/your-user-name/MarcelNieriDev/blob/output/github-contribution-grid-snake.gif)
+
 
 
 # Cursando :
