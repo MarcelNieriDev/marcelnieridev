@@ -30,7 +30,7 @@
 <p>Apaixonado por tecnologia e suas aplicações e em como isso pode mudar a vida das pessoas.</p>
 
  
-![snake gif](https://github.com/your-user-name/MarcelNieriDev/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MarcelNieriDev/MarcelNieriDev/blob/output/github-contribution-grid-snake.gif)
 
 
 
